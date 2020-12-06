@@ -1,0 +1,25 @@
+{
+  "name": "weather-for-you",
+  "version": "1.0.2",
+  "description": "Weather application built with electron.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grant0315/weather-for-you.git"
+  },
+  "keywords": [
+    "electron.js",
+    "node.js",
+    "npm",
+    "frontend"
+  ],
+  "author": "Grant Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grant0315/weather-for-you/issues"
+  },
+  "homepage": "https://github.com/grant0315/weather-for-you#readme"
+}
